@@ -1,6 +1,6 @@
 # Hi, thanks for your visit! Have a look at my projects👋
 
-- 👋 Hi, I’m a passionate Data Scientist
+- 👋 Hi, I’m a Data Scientist
 - 👀 I’m interested in python development 
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on any Data Science related topic
