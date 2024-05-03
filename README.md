@@ -2,6 +2,7 @@
 
 #### I'm a Python Developer working in Germany ![image](https://user-images.githubusercontent.com/59144947/123522892-c0b3b600-d6c0-11eb-89bb-d9b7cff929df.png)
 ##### BIO
+- www.florianplatau.de
 - 🏢 I'm currently working as a **data scientist**
 - ⚙️ I use daily: `python`, `pandas`, `SQL`, `numpy`, `fastapi`
 - 👀 I’m interested in python development 
